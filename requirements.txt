@@ -34,7 +34,7 @@ google-api-python-client==1.6.6
 h5py==2.7.1
 httplib2==0.12.0
 idna==2.8
-imageio==2.4.1
+imageio==2.6.0
 ipykernel==5.1.0
 ipython==7.2.0
 ipython-genutils==0.2.0
