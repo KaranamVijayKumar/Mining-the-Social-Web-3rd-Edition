@@ -87,7 +87,7 @@ pycurl==7.43.0.2
 PyGithub==1.35
 Pygments==2.3.1
 PyJWT==1.7.1
-pymongo==3.6.1
+pymongo==4.6.3
 pyOpenSSL==18.0.0
 pyparsing==2.3.0
 pyrsistent==0.14.8
