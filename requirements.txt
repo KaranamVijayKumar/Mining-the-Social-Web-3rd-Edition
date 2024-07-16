@@ -129,3 +129,4 @@ webencodings==0.5.1
 Werkzeug==0.14.1
 widgetsnbextension==3.2.1
 xlrd==1.2.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
